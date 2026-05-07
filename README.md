@@ -2,4 +2,4 @@
 demo project
 
 ## View Demo
-[https://jxdiiith.github.io/gtm26-git-demo/]
+[Launch STARRY SKY] (https://jxdiiith.github.io/gtm26-git-demo/)
